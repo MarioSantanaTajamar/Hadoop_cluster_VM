@@ -132,6 +132,13 @@ cd ~
 ```bash
 nano ~/.bashrc
 ```
+
+```bash
+export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
+export HADOOP_HOME=$HOME/hadoop-3.3.2
+export PATH=$HADOOP_HOME/sbin:$HADOOP_HOME/bin:$PATH
+```
+
 ![Exports](/img/5.png)
 
 ```bash
