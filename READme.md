@@ -373,7 +373,6 @@ hadoop fs -cat /hello.txt
 
 ## 18.-Acceder a la interfaz de Hadoop para ver 
 
-http://192.168.56.50:9870
 
 ![Numero de datanodes](/img/12.png)
 ![File subido](/img/13.png)
